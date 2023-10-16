@@ -1,4 +1,4 @@
-# BlocksInside - Web3 Programming Experts
+# BlocksInside: Bridging Blockchain and Beyond 🌐
 
 Welcome to BlocksInside's GitHub Page! 👋
 
